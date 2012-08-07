@@ -44,4 +44,5 @@ gem 'fancybox-rails'
 gem 'unicorn'
 
 gem 'capistrano'
-gem 'thin'
+#gem 'thin'
+#gem 'gherkin', '2.11.0'
