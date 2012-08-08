@@ -27,16 +27,16 @@ gem 'therubyracer'
   gem 'uglifier', '>= 1.0.3'
 #end
 
-group :development do
-  gem 'rails-erd'
-  gem 'rnotify'
-  gem 'letter_opener'
-end
+#group :development do
+#  gem 'rails-erd'
+#  gem 'rnotify'
+#  gem 'letter_opener'
+#end
 
-group :test do
-  gem 'rspec'
-  gem 'cucumber'
-end
+#group :test do
+#  gem 'rspec'
+#  gem 'cucumber'
+#end
 
 gem 'jquery-rails'
 gem 'fancybox-rails'
